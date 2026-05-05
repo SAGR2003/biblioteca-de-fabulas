@@ -1,5 +1,12 @@
 [
   {
+    "id": "Paula-Ramirez-Parra",
+    "titulo": "La Tortuga y la Lista de Tareas",
+    "autor": "Paula Ramirez Parra",
+    "descripcion": "En una pequeña aldea cerca del río, cada animal tenía labores importantes antes de que llegara la lluvia.",
+    "archivo": "fabulas/Paula-Ramirez-Parra.md"
+  },
+  {
     "id": "sergio-roa",
     "titulo": "El Búho y la Linterna",
     "autor": "Sergio Roa",
