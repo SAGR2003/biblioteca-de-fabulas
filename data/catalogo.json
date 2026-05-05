@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "sergio-roa",
+    "titulo": "El Búho y la Linterna",
+    "autor": "Sergio Roa",
+    "descripcion": "En las noches oscuras del bosque, los animales dependían de una linterna para cruzar seguros hasta el claro principal.",
+    "archivo": "fabulas/sergio-roa.md"
+  }
+]
