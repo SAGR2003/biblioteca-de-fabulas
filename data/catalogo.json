@@ -1,5 +1,12 @@
 [
   {
+    "id": "GGAB",
+    "titulo": "El Zorro y el Mapa Incompleto",
+    "autor": "GGAB",
+    "descripcion": "En un bosque lleno de senderos, los animales solían perderse porque cada quien dibujaba sus propios mapas y nadie sabía cuál era el más reciente.",
+    "archivo": "fabulas/GGAB.md"
+  },
+  {
     "id": "Paula-Ramirez-Parra",
     "titulo": "La Tortuga y la Lista de Tareas",
     "autor": "Paula Ramirez Parra",
