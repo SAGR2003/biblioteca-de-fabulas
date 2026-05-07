@@ -7,11 +7,25 @@
     "archivo": "fabulas/GGAB.md"
   },
   {
+    "id": "Gabriela_Narvaez_Fabula",
+    "titulo": "La Abeja y el Panal Compartido",
+    "autor": "Gabriela Narvaez Fabula",
+    "descripcion": "En un panal muy activo, cada abeja trabajaba en una zona distinta del jardín, pero casi ninguna sabía qué hacían las demás.",
+    "archivo": "fabulas/Gabriela_Narvaez_Fabula.md"
+  },
+  {
     "id": "Paula-Ramirez-Parra",
     "titulo": "La Tortuga y la Lista de Tareas",
     "autor": "Paula Ramirez Parra",
     "descripcion": "En una pequeña aldea cerca del río, cada animal tenía labores importantes antes de que llegara la lluvia.",
     "archivo": "fabulas/Paula-Ramirez-Parra.md"
+  },
+  {
+    "id": "ligia-coque",
+    "titulo": "La Ardilla y las Semillas Mezcladas",
+    "autor": "Ligia Coque M.",
+    "descripcion": "Cuando se acercaba el invierno, las ardillas del bosque guardaban semillas en pequeños escondites para sobrevivir al frío.",
+    "archivo": "fabulas/ligia-coque.md"
   },
   {
     "id": "sergio-roa",
